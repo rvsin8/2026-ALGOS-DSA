@@ -1,5 +1,3 @@
-# 2026-ALGOS-DSA
-
 This repository is my **Algorithms & Data Structures Prep for 2026** and a place where I consistently practice problem solving because I genuinely enjoy it.
 
 I use this repo to:
