@@ -13,7 +13,7 @@ class Solution:
       rootX = find(x)
       rootY = find(y)
 
-      if rootX == rootY
+      if rootX == rootY:
         return False
       
       if rank[rootX] > rank[rootY]:
